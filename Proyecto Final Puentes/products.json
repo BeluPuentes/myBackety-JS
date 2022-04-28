@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Torta Oreo",
+        "desc": "Torta a base de galletitas oreo con dulce de leche", 
+        "price": 2000,
+        "stock": 5,
+        "category":1,
+        "image": { "fields": { "file": { "url": "https://niampatisserie.com.ar/wp-content/uploads/2020/08/IMG_0433-Torta-Oreo-1.jpg" } } }  
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Chocotorta",
+        "desc":"Torta a base de galletitas chocolinas con dulce de leche. Un clasico argentino", 
+        "price": 2000, 
+        "stock": 5,
+        "category":1,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/1RJmWLVM/chocotorta.png"}}}
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Rogel",
+        "desc": "Torta tradicional Argentina hecha por capas de galletitas hojaldradas, rellena con dulce de leche y terminada con un merengue Italiano ", 
+        "price": 2500,
+        "stock": 2,
+        "category":1,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/ZnGvC2SG/rogel2.png"} } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Alfajor de Maicena",
+        "desc": "Alfajor de textura suave, relleno con dulce de leche",
+        "price": 150,
+        "stock": 21,
+        "category": 2,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/SKJCs6Fb/Alfajor-De-Maicena.png"} } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Torta Brownie",
+        "desc":"Torta a base de de brownie con dulce de leche y terminada con merengue Italiano",
+        "price": 2000,
+        "stock": 7,
+        "category":1,
+        "image": { "fields": { "file": { "url": "https://i.pinimg.com/originals/66/c8/81/66c8812d3281c93f02eba9453704fc05.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Budin de Limon",
+        "desc": "Budin con aroma y sabor a limon",
+        "price": 500,
+        "stock": 8,
+        "category":2,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/NFTx01Xj/budin-Limon.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Torta de manzana",
+        "desc": "Masa sable con rellena de manzana y con un crumble arriba", 
+        "price": 1500,
+        "stock": 10,
+        "category":1,
+        "image": { "fields": { "file": { "url": "https://t2.rg.ltmcdn.com/es/posts/6/2/8/torta_de_manzana_y_canela_invertida_17826_600_square.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Red Velvet",
+        "desc":"Torta de tres capas de color rojo, decorada con n glaseado de queso cremoso", 
+        "price": 2500,
+        "stock": 3,
+        "category":1,
+        "image": { "fields": { "file": { "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5YMn2A_bwejVuvX0OmUUy_GUFGsr0cSa_xw&usqp=CAU" } } }
+      }
+    }, 
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "Churros",
+        "desc":"Masa frita que puede estar rellana con dulce de leche y espolvoreada con azucar",
+        "price": 100,
+        "stock": 35,
+        "category":2,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/FzTh7nL9/churros.png" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "Budin de Zanahoria",
+        "desc":"Esponjoso budin con zanahoria rallada, terminado con un glase y nueces picadas",
+        "price": 350,
+        "stock": 4,
+        "category":2,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/zBhz2BWg/budin-Zanahoria.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "Cookies",
+        "desc":"Galletitas de vainilla con chips de chocolate",
+        "price": 200,
+        "stock": 17,
+        "category":2,
+        "image": { "fields": { "file": { "url": "https://i.postimg.cc/q7DWhQvX/receta-galletas-trad…de-chocolate-americanas-scaled-e1626003397297.jpg" } } }
+      }
+    }, 
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "Lemon Pie",
+        "desc":"Masa quebrada, rellena de crema de limon y decorada con merengue italiano", 
+        "price": 1500,
+        "stock": 1,
+        "category":1,
+        "image": { "fields": { "file": { "url":"https://i.pinimg.com/736x/33/8d/6a/338d6a7ac4399e214c2b71e9c40e74af.jpg" } } }
+      }
+    }
+  ]
+}
+
